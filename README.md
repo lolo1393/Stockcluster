@@ -9,6 +9,6 @@ marketplace.
 
 ### Exploring the dataset
 <p float="left" align="center">
-<img src="https://github.com/lolo1393/images/barchart.png" style="width:400px;"/>
+<img src="https://github.com/lolo1393/Stockcluster/blob/main/images/barchart.png" style="width:400px;"/>
 <img src="https://github.com/lolo1393/images/treemap.png" style="width:400px;"/>
 </p>
